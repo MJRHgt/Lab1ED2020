@@ -1,0 +1,6 @@
+{
+	"type":"https://tool.ietf.org/html/rfc7231#section-6.5.1",
+	"title": "Bad Request",
+	"status": 400,
+	"traceId":"|b70d6a2-49f893a14c53502e."
+}
